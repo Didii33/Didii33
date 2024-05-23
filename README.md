@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Didii33
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on iphone apps and java codes
+- 🌱 I’m currently learning HTML, Javascript and more...
+- 💞️ I’m looking to collaborate on work on Websites
 - 📫 How to reach me ...
 
 <!---
